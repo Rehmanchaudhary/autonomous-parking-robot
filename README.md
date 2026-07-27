@@ -3,7 +3,7 @@
 Self-navigating robot that detects an open parking space and reverses into it autonomously.
 
 ## Demo
-autonomous_parking_robot_pic.jpeg
+![demo](autonomous_parking_robot_pic.jpeg)
 
 ## Hardware Used
 - Arduino Nano V3
